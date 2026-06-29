@@ -7,7 +7,7 @@ A fine-tuned text classifier that sorts r/soccer comments into three discourse t
 
 ## Community
 
-**r/soccer.** I chose r/soccer because the discourse is high-volume, plain-English, and varies enormously in quality — exactly what makes a quality classifier interesting. The data was collected during the 2026 World Cup, when the subreddit is at peak activity: match-clip threads, post-match debate, transfer news, and manager post-mortems all running at once. Critically, the quality distinction here is about the **form** of a comment — does it reason with evidence, just assert, or just emote — which means the labels can be applied consistently without deep tactical expertise.
+**r/soccer.** I chose r/soccer because the discourse is high-volume, plain-English, and varies enormously in quality, exactly what makes a quality classifier interesting. The data was collected during the 2026 World Cup, when the subreddit is at peak activity: match-clip threads, post-match debate, transfer news, and manager post-mortems all running at once. Critically, the quality distinction here is about the **form** of a comment — does it reason with evidence, just assert, or just emote ,which means the labels can be applied consistently without deep tactical expertise.
 
 ## Label Taxonomy
 
